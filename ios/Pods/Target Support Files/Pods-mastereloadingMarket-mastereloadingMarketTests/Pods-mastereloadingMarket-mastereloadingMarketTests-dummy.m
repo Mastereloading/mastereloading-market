@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_mastereloadingMarket_mastereloadingMarketTests : NSObject
+@end
+@implementation PodsDummy_Pods_mastereloadingMarket_mastereloadingMarketTests
+@end

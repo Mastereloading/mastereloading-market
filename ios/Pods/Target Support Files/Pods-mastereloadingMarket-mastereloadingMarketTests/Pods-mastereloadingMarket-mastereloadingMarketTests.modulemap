@@ -1,0 +1,6 @@
+module Pods_mastereloadingMarket_mastereloadingMarketTests {
+  umbrella header "Pods-mastereloadingMarket-mastereloadingMarketTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
